@@ -25,7 +25,6 @@ A collection of JavaScript utilities and components designed to simplify web dev
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cory-schulz-1b108b3b/)
 
----
 
 <!--
 **CorySchulz/coryschulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
